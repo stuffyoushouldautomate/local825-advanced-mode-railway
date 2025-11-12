@@ -1,0 +1,17 @@
+{
+  "name": "local825-advanced-mode",
+  "version": "1.0.0",
+  "description": "Advanced Mode for Local 825 - Enhanced Data Tracking & Intelligence System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["local825", "advanced-mode", "data-tracking"],
+  "author": "Local 825 Development Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "compression": "^1.7.4"
+  }
+}
